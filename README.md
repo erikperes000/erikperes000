@@ -9,4 +9,4 @@
 <code><https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white></code>
 <code><https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white></code>
 
-- Thanks!!! (:guitar:)
+- Thanks!!! :guitar:
